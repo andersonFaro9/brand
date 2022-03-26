@@ -11,6 +11,9 @@ Tecnologias utilizadas no projeto:
 - Sass
 - Css/Flexbox
 
+Acesse: 
+https://brand-seven.vercel.app/
+
 Testados nos principais navegadores:
 
 Chrome, Firefox, Edge, Safari, Opera e Vivaldi.
@@ -24,9 +27,6 @@ Instalação de dependências e "libs".
 - Para visualizar, primeiro em seu terminal, digite o comando npm run dev , depois de carregado, vá ao seu navegador, digite: http://localhost:3000/
 
 - Nesse desafio foi configurado e instalado ferramentas como o eslint, editorconfig, prettier.config.js, entre outros; Para maiores informações, segue link com os detalhes: https://www.notion.so/Padr-es-de-projeto-com-ESLint-Prettier-e-EditorConfig-0b57b47a24724c859c0cf226aa0cc3a7
-
-Acesse: 
-https://brand-seven.vercel.app/
 
 ## :memo: Licença
 
